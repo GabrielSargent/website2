@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a junior at the University of Notre Dame studying mathematics. I hope to pursue a PhD in Applied Math. I am interested in a variety of topics in math and computer science.
+I am a junior at the University of Notre Dame studying mathematics. I am interested in a variety of topics at the intersection of math and computer science, and I hope to pursue a PhD in Applied Math.
