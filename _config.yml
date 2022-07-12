@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Gabriel Sargent"
-  avatar           : "Gabriel.png"
+  avatar           : "/files/Gabriel.png"
   bio              : ""
   email            : "gsargent@nd.edu"
   uri              :
