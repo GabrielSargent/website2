@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gabriel Sargent"
 title_separator          : "-"
 name                     : &name "Gabriel Sargent"
-description              : &description "I am a junior at the University of Notre Dame studying mathematics."
+description              : &description ""
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,13 +82,8 @@ analytics:
 author:
   name             : "Gabriel Sargent"
   avatar           : "Gabriel.png"
-  bio              : "Nothing here?"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : ""
+  email            : "gsargent@nd.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +104,6 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
