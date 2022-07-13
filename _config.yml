@@ -83,7 +83,6 @@ author:
   name             : "Gabriel Sargent"
   avatar           : "images/Gabriel.png"
   bio              : "gsargent@nd.edu"
-  email            : "gsargent@nd.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,14 +90,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
