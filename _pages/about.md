@@ -10,4 +10,4 @@ redirect_from:
 
 I am a junior at the University of Notre Dame studying mathematics. I hope to pursue a PhD in Applied Math.
 
-You can find my CV here.
+CV
