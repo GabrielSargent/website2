@@ -6,4 +6,5 @@ author_profile: true
 redirect_from: 
 ---
 
-I spent 8 weeks this summer at ICERM studying permutation-invariant parking sequences. Here is the preprint of the paper we wrote:
+<big>Parking Functions</big>
+I was a participant in <a href="https://icerm.brown.edu/summerug/2022/">Summer@ICERM 2022</a>. We studied permutation-invariant parking sequences, and we wrote a paper.
