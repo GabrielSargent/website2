@@ -20,4 +20,6 @@ I am especially interested in the following areas:
 
 </ul>
 
+You can reach me at gsargent@nd.edu.
+
 CV
