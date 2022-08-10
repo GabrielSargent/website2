@@ -5,7 +5,7 @@ excerpt: "Coursework"
 author_profile: true
 redirect_from: 
 ---
-Math<br>
+<u>Math</u><br>
 Applied Math Methods I<br>
 Applied Linear Algebra<br>
 Introduction to Mathematical Reasoning<br>
@@ -19,7 +19,7 @@ Introduction to Operations Research (in progress)<br>
 Honors Algebra III (in progress)<br>
 Honors Analysis I (in progress)<br>
 
-<br>Computer Science<br>
+<br><u>Computer Science</u><br>
 Fundamentals of Computing<br>
 Data Structures<br>
 
